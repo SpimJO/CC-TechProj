@@ -1,0 +1,1 @@
+my first clone development program website! This project is a culmination of my learning journey in web development, where I have utilized HTML, CSS, and JavaScript to create a fully functional and visually appealing web application.
